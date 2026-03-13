@@ -95,6 +95,10 @@ body{
     padding:2rem;
 }
 
+.hero-content .mobile-breack {
+    display: none;
+}
+
 .hero span{
     color:#ffffff;
 }
@@ -442,6 +446,10 @@ display:flex;
 .nav-menu li{
 margin:.7rem 0;
 animation:slideInDown 1s ease;
+}
+
+.hero .mobile-breack {
+    display: block;
 }
 
 .hamburger{
